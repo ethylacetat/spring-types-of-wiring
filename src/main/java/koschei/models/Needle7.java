@@ -4,10 +4,10 @@ import org.springframework.beans.factory.annotation.Autowired;
 
 public class Needle7 {
 
-    private final Deth8 deth;
+    private final Death8 deth;
 
     @Autowired
-    public Needle7(Deth8 deth) {
+    public Needle7(Death8 deth) {
         this.deth = deth;
     }
 
